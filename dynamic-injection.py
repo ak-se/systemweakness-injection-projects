@@ -20,8 +20,8 @@ process_name = args.process_name
 
 kernel32 = windll.kernel32
 # constants
-MEM_COMMIT_RESERVE = 0x3000
-MEM_COMMIT = 0x3000
+MEM_COMMIT_RESERVE = 0x3000 #added by me, don't know what it means tho
+MEM_COMMIT = 0x3000 # added by me, don't know what it means tho
 MEM_RESERVE = 0x3000
 PAGE_READWRITE_EXECUTE = 0x40
 PROCESS_ALL_ACCESS = 0x1fffff
