@@ -18,3 +18,12 @@ Resources:
 - [DLL Hijacking - Red Team Notes](https://www.ired.team/offensive-security/privilege-escalation/t1038-dll-hijacking)
 - [DLL hijacking | OSCP Notes](https://notchxor.github.io/oscp-notes/4-win-privesc/6-dll-hijacking/)
 - [Dll Hijacking - HackTricks](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking)
+
+
+### To-Do
+- [x] Learn about DLL Hijacking
+- [x] Learn about Process Injection
+- [ ] Perform PrivEsc on DVTA
+- [ ] Learn about Symbolic Link Privesc
+- [ ] Use PyInjector to automoate some parts of the process [PyInjection](https://github.com/kmaork/pyinjector)
+- [ ] Learn about Process Marauder [ProcessMarauder](https://github.com/0xDeadcell/ProcessMarauder)
