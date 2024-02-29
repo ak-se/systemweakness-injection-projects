@@ -24,6 +24,7 @@ Resources:
 - [x] Learn about DLL Hijacking
 - [x] Learn about Process Injection
 - [ ] Perform PrivEsc on DVTA
+- [ ] Learn about Unquoted Service Paths for PrivEsc
 - [ ] Learn about Symbolic Link Privesc
 - [ ] Use PyInjector to automoate some parts of the process [PyInjection](https://github.com/kmaork/pyinjector)
 - [ ] Learn about Process Marauder [ProcessMarauder](https://github.com/0xDeadcell/ProcessMarauder)
