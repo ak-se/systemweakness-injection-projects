@@ -1,13 +1,13 @@
 # Stolen Code, I only barely get what this does
 # Stolen from: https://systemweakness.com/win32api-with-python3-part-iii-injection-6dd3c1b99c90
 
+import wmi
 import ctypes
 from ctypes import windll
 from ctypes import wintypes
 from urllib import request
 from time import sleep
 import os
-import wmi
 import argparse
 import threading
 

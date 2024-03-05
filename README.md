@@ -20,6 +20,10 @@ Resources:
 - [Dll Hijacking - HackTricks](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking)
 
 
+### Symlink tools by Google Project Zero
+[Symboliclink-testing-tools](https://github.com/googleprojectzero/symboliclink-testing-tools)
+
+
 ### To-Do
 - [x] Learn about DLL Hijacking
 - [x] Learn about Process Injection
